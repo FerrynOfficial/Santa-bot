@@ -9,7 +9,7 @@ client.on('ready', () => {
     client.user.setStatus('dnd')
     client.user.setPresence({
         game:{
-          name:`'FlameCommunity 2.0'| До нового года 2 недели!`,
+          name:`'FlameCommunity 2.0'| До нового года 6 дней!`,
           type:"PLAYING"
         }
       }) 
